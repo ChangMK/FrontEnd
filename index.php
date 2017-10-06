@@ -35,7 +35,7 @@
 				<ul>
 					<li>14 different languages</li>
 					<li>DPI bug fixed</li>
-					<li>Php 5.4.18</li>
+					<li>Php 5.4.39</li>
 					<li>Httpd 2.4.6</li>
 					<li>PhpMyAdmin 4.0.4.2</li>
 					<li>MySQL 5.6.13</li>
